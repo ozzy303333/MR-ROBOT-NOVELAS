@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AYM Sports
-http://admin-mainpanel.club:8080/paco/paco/27734?checkedby:iptvcat.com
-
-
-
-
-
-
-
-
-
-
-DEPORTES
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png",DEPORTES ESPN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/313
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",DEPORTES ESPN 2
@@ -36,8 +23,6 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/324
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/325
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",DEPORTES BEIN SPORTS Ñ
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/326
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",DEPORTES  UFC
-http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/327
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png",DEPORTES TUDN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/328
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png",DEPORTES CDF

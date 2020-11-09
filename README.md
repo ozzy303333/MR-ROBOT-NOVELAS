@@ -39,3 +39,11 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/333
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/308
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png",DEPORTES WIN+
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/307
+#EXTINF:-1,DEPORTES ESPN
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/313
+#EXTINF:-1,DEPORTES ESPN 2
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/314
+#EXTINF:-1,DEPORTES ESPN 3
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/315
+#EXTINF:-1,DEPORTES MOVISTAR D
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/316

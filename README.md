@@ -47,3 +47,5 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/314
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/315
 #EXTINF:-1,DEPORTES MOVISTAR D
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/316
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png",DEPORTES TIGO SPORTS
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/312

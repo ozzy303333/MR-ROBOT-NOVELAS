@@ -391,8 +391,6 @@ https://ia601406.us.archive.org/6/items/94-1_20210929/194~1.mp4
 https://ia601406.us.archive.org/6/items/94-1_20210929/195~1.mp4
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X1.María la del Barrio
 https://archive.org/download/1-56_20230722/1%20%281%29.mp4
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X1.María la del Barrio
-https://archive.org/download/1-56_20230722/1%20%281%29.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X2.María la del Barrio
 https://archive.org/download/1-56_20230722/1%20%282%29.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X3.María la del Barrio
@@ -473,10 +471,6 @@ https://archive.org/download/1-56_20230722/1%20%2839%29.mp4
 https://archive.org/download/1-56_20230722/1%20%2840%29.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X41.María la del Barrio
 https://archive.org/download/1-56_20230722/1%20%2841%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X42.María la del Barrio
-https://archive.org/download/1-56_20230722/1%20%2842%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X42.María la del Barrio
-https://archive.org/download/1-56_20230722/1%20%2842%29.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X42.María la del Barrio
 https://archive.org/download/1-56_20230722/1%20%2842%29.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/86/Thalia_Mar%C3%ADa.jpg" group-title="María La Del Barrio", 01X43.María la del Barrio

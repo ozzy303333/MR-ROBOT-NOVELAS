@@ -797,3 +797,349 @@ https://archive.org/download/elp-4-tr-0-n-m-4-l-0-s-0-capitulo-1/Copia%20de%20PE
 https://archive.org/download/elp-4-tr-0-n-m-4-l-0-s-0-capitulo-1/Copia%20de%20PE-EPDM-HD-capitulo%20112.mp4
 #EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2012/5/w780/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2012/5/w780/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg" group-title="PABLO ESCOBAR", 01x113 Pablo Escobar
 https://archive.org/download/elp-4-tr-0-n-m-4-l-0-s-0-capitulo-1/Copia%20de%20PE-EPDM-HD-capitulo%20113.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01X01 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X1.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x02 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X2.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x03 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X3.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x04 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X4.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x05 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X5.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x06 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X6.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x07 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X7.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x08 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X8.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x09 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X9.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x10 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X10.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x11 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X11.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x12 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X12.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x13 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X13.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x14 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X14.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x15 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X15.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x16 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X16.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x17 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X17.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x18 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X18.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x19 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X19.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x20 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X20.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x21 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X21.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x22 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X22.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x23 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X23.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x24 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X24.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x25 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X25.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x26 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X26.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x27 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X27.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x28 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X28.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x29 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X29.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x30 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X30.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x31 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X31.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x32 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X32.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x33 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X33.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x34 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X34.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x35 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X35.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x36 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X36.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x37 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X37.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x38 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X38.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x39 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X39.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x40 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X40.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x41 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X41.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x42 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X42.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x43 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X43.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x44 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X44.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x45 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X45.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x46 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X46.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x47 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X47.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x48 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X48.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x49 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X49.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x50 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X50.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x51 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X51.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x52 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X52.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x53 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X53.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x54 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X54.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x55 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X55.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x56 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X56.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x57 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X57.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x58 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X58.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x59 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X59.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x60 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X60.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x61 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X61.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x62 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X62.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x63 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X63.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x64 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X64.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x65 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X65.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x66 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X66.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x67 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X67.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x68 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X68.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x69 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X69.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x70 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X70.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x71 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X71.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x72 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X72.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x73 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X73.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x74 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X74.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x75 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X75.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x76 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X76.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x77 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X77.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x79 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X79.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x78 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X78.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x80 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X80.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x81 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X81.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x82 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X82.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x83 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X83.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x84 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X84.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x85 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X85.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x86 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X86.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x87 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X87.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x88 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X88.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x89 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X89.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ulS9Hs9FL._AC_UF894,1000_QL80_.jpg" group-title="EL CAPO", 01x90 EL CAPO
+https://archive.org/download/el-capo-1/EL%20CAPO%20-%201X90.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x01 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2001.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x02 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2002.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x03 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2003.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x04 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2004.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x05 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2005.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x06 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2006.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x07 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2007.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x08 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2008.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x09 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2009.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x10 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2010.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x11 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2011.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x12 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2012.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x13 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2013.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x14 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2014.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x15 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2015.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x16 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2016.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x17 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2017.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x18 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2018.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x19 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2019.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x20 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2020.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x21 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2020.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x22 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2022.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x23 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2023.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x24 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2024.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x25 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2025.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x26 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2026.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x27 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2027.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x28 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2028.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x29 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2029.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x30 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2030.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x31 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2031.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x32 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2032.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x33 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2033.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x34 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2034.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x35 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2035.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x36 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2036.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x37 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2037.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x38 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2038.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x39 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2039.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x40 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2040.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x41 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2041.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x42 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2042.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x43 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2043.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x44 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2044.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x45 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2045.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x46 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2046.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x47 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2047.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x48 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2048.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x49 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2049.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x50 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2050.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x51 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2051.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x52 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2052.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x53 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2053.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x54 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2054.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x55 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2055.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x56 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2056.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x57 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2057.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x58 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2058.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x59 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2059.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x60 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2060.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x61 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2061.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x62 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2062.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x63 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2063.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x64 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2064.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x65 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2065.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x66 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2066.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x67 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2067.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x68 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2068.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x69 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2069.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x70 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2070.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x71 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2071.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x72 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2072.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x73 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2073.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x74 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2074.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x75 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2075.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" tvg-logo-small="https://archive.org/download/el-capo-1/EL%20CAPO%202.jpg" group-title="EL CAPO", 02x76 EL CAPO 2
+https://archive.org/download/el-capo-1/EL%20CAPO%20T2%20-%20Cap%2076.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x01 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C1.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x02 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C2.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x03 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C3.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x04 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C4.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x05 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C5.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x06 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C6.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x06 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C6.mp4

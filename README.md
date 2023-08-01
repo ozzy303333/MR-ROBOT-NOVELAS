@@ -1141,5 +1141,107 @@ https://archive.org/download/el-capo-1/El%20Capo%20T3%20C4.mp4
 https://archive.org/download/el-capo-1/El%20Capo%20T3%20C5.mp4
 #EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x06 EL CAPO 3
 https://archive.org/download/el-capo-1/El%20Capo%20T3%20C6.mp4
-#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x06 EL CAPO 3
-https://archive.org/download/el-capo-1/El%20Capo%20T3%20C6.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 03x07 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C7.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x08 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C8.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x09 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C9.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x10 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C10.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x11 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C11.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x12 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C12.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x13 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C13.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x14 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C14.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x15 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C15.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x16 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C16.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x17 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C17.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x18 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C18.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x19 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C19.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x20 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C20.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x21 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C21.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x22 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C22.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x23 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C23.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x24 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C24.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x25 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C25.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x26 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C26.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x27 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C27.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x28 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C28.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x29 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C29.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x30 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C30.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x31 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C31.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x32 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C32.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x33 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C33.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x34 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C34.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x35 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C35.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x36 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C36.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x37 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C37.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x38 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C38.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x39 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C39.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x40 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C40.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x41 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C41.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x42 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C42.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x43 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C43.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x44 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C44.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x45 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C45.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x46 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C46.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x47 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C47.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x48 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C48.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x49 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C49.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x50 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C50.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x51 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C51.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x52 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C52.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x53 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C53.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x54 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C54.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x55 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C55.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x56 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C56.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x57 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C57.mp4
+#EXTINF: -1 tvg-logo="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" tvg-logo-small="https://ia902300.us.archive.org/19/items/el-capo-1/elcapo3.jpg" group-title="EL CAPO", 01x58 EL CAPO 3
+https://archive.org/download/el-capo-1/El%20Capo%20T3%20C58.mp4
